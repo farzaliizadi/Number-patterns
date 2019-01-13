@@ -4,7 +4,7 @@ Created on Fri Jan 11 23:29:16 2019
 @author: Izadi
 """
 '''
-Beautiful number pattern: By by courtesy of
+Beautiful number pattern: By courtesy of
 Professor Geoffrey Campbell 
 Visiting Fellow, Mathematical Sciences Institute,
 Australian National University
